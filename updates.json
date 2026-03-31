@@ -1,7 +1,13 @@
 {
   "addons": {
     "arc-userscripts@j-ell": {
-      "updates": []
+      "updates": [
+        {
+          "version": "1.0.1",
+          "update_link": "https://github.com/j-ell/arc-extensions-dist/releases/download/v1.0.1-firefox-userscripts/firefox-userscripts-1.0.1.xpi",
+          "update_hash": "sha256:3beff626262c2790abf415715310b36f1514858eac14caad244cefd7a983a5ab"
+        }
+      ]
     },
     "download-organizer@j-ell": {
       "updates": []
