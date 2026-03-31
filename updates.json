@@ -10,7 +10,13 @@
       ]
     },
     "download-organizer@j-ell": {
-      "updates": []
+      "updates": [
+        {
+          "version": "1.1.1",
+          "update_link": "https://github.com/j-ell/arc-extensions-dist/releases/download/v1.1.1-download-organizer/download-organizer-1.1.1.xpi",
+          "update_hash": "sha256:2259c99c410b9e68400009a6fbfa98f9fbfe286ca44f40cec97b3f435e50526a"
+        }
+      ]
     }
   }
 }
