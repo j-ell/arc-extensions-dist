@@ -3,9 +3,9 @@
     "arc-userscripts@j-ell": {
       "updates": [
         {
-          "version": "1.1.1",
-          "update_link": "https://github.com/j-ell/arc-extensions-dist/releases/download/v1.1.1-firefox-userscripts/firefox-userscripts-1.1.1.xpi",
-          "update_hash": "sha256:48ee277053c28dfb8b4f0572508ce8a0858acd7a3cdc663f7fec9ad7f435d9e2"
+          "version": "1.2.1",
+          "update_link": "https://github.com/j-ell/arc-extensions-dist/releases/download/v1.2.1-firefox-userscripts/firefox-userscripts-1.2.1.xpi",
+          "update_hash": "sha256:6ef438075db7e4ceb0eaa969ce13940ce01e098d208d03866d70d41479dff1fb"
         }
       ]
     },
